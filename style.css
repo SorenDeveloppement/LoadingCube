@@ -23,7 +23,7 @@ body {
     position: fixed;
     height: 1px;
     width: 1000px;
-    background: linear-gradient(90deg, #0E0E0E, rgb(148, 143, 143), #0E0E0E);
+    background: linear-gradient(90deg, #0E0E0E, #0ff, #0E0E0E);
     transform: translateX(75px) translateY(75px);
 }
 
